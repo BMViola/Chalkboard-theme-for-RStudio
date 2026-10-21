@@ -17,6 +17,12 @@ rstudioapi::addTheme(
 )
 ```
 
+Or 
+
+```r
+source("https://raw.githubusercontent.com/BMViola/Chalkboard-theme-for-RStudio/main/install.R")
+```
+
 Or download `Chalkboard.tmTheme` and add it via **Tools → Global Options → Appearance → Add…**
 
 ## Colours
