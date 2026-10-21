@@ -3,7 +3,7 @@
 An old-school chalkboard inspired theme for RStudio.
 
 <p align="center">
-  <img src="Chalkboard_Theme_Example.png" alt="Chalkboard theme in RStudio" width="600">
+  <img src="Chalkboard_Theme_Example.png" alt="Chalkboard theme in RStudio" width="300">
 </p>
 
 ## Install
